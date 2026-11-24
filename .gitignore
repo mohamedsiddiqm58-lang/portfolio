@@ -4,3 +4,5 @@ dist-ssr
 *.local
 screenshots
 .DS_Store
+
+models/
